@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**dcaueb78/dcaueb78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Cauê Kotarski from Brazil (🇧🇷). I've been working as Software Engineer since 2018 and currently I'm a Microsoft Student Partner, Community Manager and Speaker.
 
-Here are some ideas to get you started:
+In my free time I like to play video-games (:video_game:), to spend time with my friends (:heart:), to watch movies (🎞️) and series (📺), to read books (📚) I love sooo much traveling (:airplane:), to take pictures (:camera:) and Organize events (🎉).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Would you like to find me?
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dcaueb78)](https://twitter.com/dcaueb78)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauekotarski/)](https://www.linkedin.com/in/cauekotarski/)
+
+
+Follow my blog: 
+
+[![Site](cauekotarski.com)](https://cauekotarski.com/)
+
+<p align="center" style="font-weight:bold">
+:star2: <b>if you know of any work as a Front-End Developer let me know!</b> :star2:
+</p>
