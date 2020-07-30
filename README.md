@@ -15,5 +15,5 @@ Follow my blog:
 [cauekotarski.com](https://cauekotarski.com/)
 
 <p align="center" style="font-weight:bold">
-:star2: <b>Technology Alone Is Not Enough.!</b> :star2:
+:star2: <b>Technology Alone Is Not Enough!</b> :star2:
 </p>
