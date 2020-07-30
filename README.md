@@ -12,8 +12,8 @@ Would you like to find me?
 
 Follow my blog: 
 
-[![Site](cauekotarski.com)](https://cauekotarski.com/)
+[![Site])](https://cauekotarski.com/)
 
 <p align="center" style="font-weight:bold">
-:star2: <b>if you know of any work as a Front-End Developer let me know!</b> :star2:
+:star2: <b>Technology Alone Is Not Enough.!</b> :star2:
 </p>
