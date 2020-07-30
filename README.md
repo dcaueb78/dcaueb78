@@ -12,7 +12,7 @@ Would you like to find me?
 
 Follow my blog: 
 
-[![Site])](https://cauekotarski.com/)
+[cauekotarski.com](https://cauekotarski.com/)
 
 <p align="center" style="font-weight:bold">
 :star2: <b>Technology Alone Is Not Enough.!</b> :star2:
