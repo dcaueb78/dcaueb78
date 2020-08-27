@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Cauê Kotarski from Brazil (🇧🇷). I've been working as Software Engineer since 2018 and currently I'm a Microsoft Student Partner, Community Manager and Speaker.
+My name is Cauê Kotarski from Brazil (🇧🇷). I've been working as Software Engineer since 2018 and currently I'm a Microsoft Learn Student Ambassador, Community Manager and Speaker.
 
 In my free time I like to play video-games (:video_game:), to spend time with my friends (:heart:), to watch movies (🎞️) and series (📺), to read books (📚) I love sooo much traveling (:airplane:), take pictures (:camera:) and Organize events (🎉).
 
