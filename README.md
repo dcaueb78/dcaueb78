@@ -6,7 +6,6 @@ In my free time I like to play video-games (:video_game:), to spend time with my
 
 Would you like to find me?
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dcaueb78)](https://twitter.com/dcaueb78)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauekotarski/)](https://www.linkedin.com/in/cauekotarski/)
 
 
